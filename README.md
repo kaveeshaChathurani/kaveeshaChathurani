@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Akila</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kaveesha</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Sri lanka.</h3>
 
 
@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 
-- 📫 How to reach me **akilajayawickrama7@gmail.com**
+- 📫 How to reach me **skchathurani99@gmail.com**
 
 
 
